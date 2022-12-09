@@ -76,6 +76,8 @@ title(s)
 % % 
 % % 
 % *Solución:*
+disp('Eso es el codigo de UB')
+
 
 
 %% 
